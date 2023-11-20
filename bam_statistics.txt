@@ -1,0 +1,9 @@
+filename	replicon	mapped_reads	ter_start	ter_stop
+/home/aap/mnt/Juergen/Projects/vesicles_Ecoli/vesicle_dna/coli/coli_omv_processed/WT-1_sorted.bam	NZ_CP009273.1	1725436	1582052	1588052
+/home/aap/mnt/Juergen/Projects/vesicles_Ecoli/vesicle_dna/coli/coli_omv_processed/WT-2_sorted.bam	NZ_CP009273.1	1237778	1582052	1588052
+/home/aap/mnt/Juergen/Projects/vesicles_Ecoli/vesicle_dna/coli/coli_omv_processed/WT-3_sorted.bam	NZ_CP009273.1	1229730	1582052	1588052
+/home/aap/mnt/Juergen/Projects/vesicles_Ecoli/vesicle_dna/coli/coli_omv_processed/xerC-1_sorted.bam	NZ_CP009273.1	2589912	1582052	1588052
+/home/aap/mnt/Juergen/Projects/vesicles_Ecoli/vesicle_dna/coli/coli_omv_processed/xerC-2_sorted.bam	NZ_CP009273.1	2593008	1582052	1588052
+/home/aap/mnt/Juergen/Projects/vesicles_Ecoli/vesicle_dna/coli/coli_omv_processed/xerD-1_sorted.bam	NZ_CP009273.1	2191086	1582052	1588052
+/home/aap/mnt/Juergen/Projects/vesicles_Ecoli/vesicle_dna/coli/coli_omv_processed/xerD-2_sorted.bam	NZ_CP009273.1	3204824	1582052	1588052
+/home/aap/mnt/Juergen/Projects/vesicles_Ecoli/vesicle_dna/coli/coli_omv_processed/xerD-3_sorted.bam	NZ_CP009273.1	2544678	1582052	1588052
